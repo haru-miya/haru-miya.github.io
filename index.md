@@ -11,10 +11,8 @@ Haruyuki Miyatake - 宮武晴雪
   - 2023年4月入学
 
 ### サークル
-- Ultech 
-  - titech.info/circle/150 
-- 東京科学大デジタル創作同好会traP
-  - portfolio.trap.jp
+- [Ultech](titech.info/circle/150)
+- [東京科学大デジタル創作同好会traP](portfolio.trap.jp)
 
 ### 資格
 - 普通自動車第一種運転免許（2023年9月）
@@ -40,25 +38,18 @@ Haruyuki Miyatake - 宮武晴雪
 - イカンデミンドコントロール（ゲーム、Unity(C#)を使用）
     - サークルのハッカソンで開発
     - シューティング部分（ギミックなど）の実装を担当
-    - ゲーム
-        - napolin.github.io/IkanDemindControl
-    - 開発ブログ
-        - trap.jp/post/1903
+    - [ゲーム](napolin.github.io/IkanDemindControl)
+    - [開発ブログ](trap.jp/post/1903)
 
 - 首都圏外郭放水路×マインクラフト（Minecraft、JavaSript(Script API)を使用）
     - 株式会社ガリレオ・プロジェクトでのアルバイトで制作
     - アドオン制作（ミニゲームなど）を担当
-    - 詳細
-        - www.ktr.mlit.go.jp/edogawa/edogawa01318.html
-    - リリース記事
-        - prtimes.jp/main/html/rd/p/000000010.000134918.html
+    - [詳細](www.ktr.mlit.go.jp/edogawa/edogawa01318.html)
+    - [リリース記事](prtimes.jp/main/html/rd/p/000000010.000134918.html)
         
 ## 各種リンク
-- オープンバッジ
-    - www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/SHpOdUZqWEVwd1dmeFJhd1FqTHg4UT09
+- [オープンバッジ](www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/SHpOdUZqWEVwd1dmeFJhd1FqTHg4UT09)
 
-- GitHub
-    - github.com/haru-miya
+- [GitHub](github.com/haru-miya)
 
-- AtCoder
-    - atcoder.jp/users/yomi1
+- [AtCoder](atcoder.jp/users/yomi1)
