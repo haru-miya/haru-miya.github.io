@@ -11,7 +11,7 @@ Haruyuki Miyatake - 宮武晴雪
 
 ### サークル
 - [Ultech](https://titech.info/circle/150)
-- [東京科学大デジタル創作同好会traP](https://portfolio.trap.jp/)
+- [東京科学大学デジタル創作同好会traP](https://portfolio.trap.jp/)
 
 ### 資格
 - 普通自動車第一種運転免許（2023年9月）
@@ -46,6 +46,7 @@ Haruyuki Miyatake - 宮武晴雪
     - アドオン制作（ミニゲームなど）を担当
     - [詳細](https://www.ktr.mlit.go.jp/edogawa/edogawa01318.html)
     - [リリース記事](https://prtimes.jp/main/html/rd/p/000000010.000134918.html)
+    - [取材](https://www.nhk.or.jp/shutoken/saitama/articles/101/022/77/)
         
 ## 各種リンク
 - [オープンバッジ](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/SHpOdUZqWEVwd1dmeFJhd1FqTHg4UT09)
