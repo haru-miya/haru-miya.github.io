@@ -26,6 +26,7 @@ Haruyuki Miyatake - 宮武晴雪
 ### 興味のある分野
 - 音声信号処理
 - 機械学習
+- エンタメ
 
 ## プログラミング
 ### 主な使用言語
@@ -42,12 +43,16 @@ Haruyuki Miyatake - 宮武晴雪
     - [開発ブログ](https://trap.jp/post/1903/)
 
 - 首都圏外郭放水路×マインクラフト（Minecraft、JavaSript(Script API)を使用）
-    - 株式会社ガリレオ・プロジェクトでのアルバイトで制作
+    - [株式会社ガリレオ・プロジェクト](https://galileo-p.com/)でのアルバイトで制作
     - アドオン制作（ミニゲームなど）を担当
     - [詳細](https://www.ktr.mlit.go.jp/edogawa/edogawa01318.html)
     - [リリース記事](https://prtimes.jp/main/html/rd/p/000000010.000134918.html)
     - [取材](https://www.nhk.or.jp/shutoken/saitama/articles/101/022/77/)
-        
+
+### その他
+- [GCI](https://gci2.t.u-tokyo.ac.jp/) 2025 Summer 修了
+    - [修了証](pdf/修了証.pdf)      
+
 ## 各種リンク
 - [オープンバッジ](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/SHpOdUZqWEVwd1dmeFJhd1FqTHg4UT09)
 
