@@ -50,6 +50,7 @@ Haruyuki Miyatake - 宮武晴雪
     - [取材](https://www.nhk.or.jp/shutoken/saitama/articles/101/022/77/)
 
 ### その他
+- [ICPC](https://icpc.jp/) 2025 国内予選 95位
 - [GCI](https://gci2.t.u-tokyo.ac.jp/) 2025 Summer 修了
     - [修了証](pdf/修了証.pdf)      
 
