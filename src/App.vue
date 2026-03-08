@@ -109,7 +109,7 @@
                 <v-card-title>趣味</v-card-title>
                 <v-card-text>
                   <ul class="pl-5">
-                    <li>Vtuber鑑賞（にじさんじ、ホロライブ など）</li>
+                    <li>VTuber鑑賞（にじさんじ、ホロライブ など）</li>
                     <li>音楽鑑賞（優里、Mrs. GREEN APPLE、GRe4N BOYZ など）</li>
                   </ul>
                 </v-card-text>
