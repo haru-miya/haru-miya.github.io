@@ -33,7 +33,7 @@
 
               <v-col cols="12" md="8" class="pa-6 pa-md-10">
                 <div class="text-overline text-indigo-darken-2">ABOUT ME</div>
-                <h1 class="text-h3 text-md-h4 mb-4">
+                <h1 class="text-h5 text-md-h4 mb-4">
                   情報通信・機械学習・エンタメを横断して、
                   作ることを楽しむ学生です。
                 </h1>
