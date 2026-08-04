@@ -21,7 +21,7 @@
               <v-col cols="12" md="4" class="hero-pane d-flex align-center justify-center pa-8 pa-md-10">
                 <div class="text-center">
                   <v-avatar size="160">
-                    <v-img src="/images/icon_yomi.png" alt="アイコン" cover />
+                    <v-img src="/images/icon_haru_summer.png" alt="アイコン" cover />
                   </v-avatar>
                   <div class="text-h4 font-weight-bold">Haruyuki Miyatake</div>
                   <div class="text-subtitle-1 mt-2 opacity-90">宮武 晴雪</div>
